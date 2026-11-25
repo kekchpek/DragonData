@@ -1,5 +1,7 @@
 # DragonData
 
-Unity library development project. In Unity Hub, add the repository root as an existing project and open it with Unity **6000.2.14f1**.
+Unity package for game data and saves.
 
-The embedded package lives in `Packages/com.kekchpek.dragon-data`. Its `Runtime` and `Editor` directories are ready for the library and its editor tooling.
+## Install
+
+In Unity, open **Window → Package Manager**, select **+ → Install package from git URL**, and enter `https://github.com/kekchpek/DragonData.git`.
