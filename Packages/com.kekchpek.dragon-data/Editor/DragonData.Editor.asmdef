@@ -1,0 +1,5 @@
+{
+  "name": "DragonData.Editor",
+  "rootNamespace": "DragonData.Editor",
+  "includePlatforms": ["Editor"]
+}
